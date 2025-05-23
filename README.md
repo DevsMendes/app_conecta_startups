@@ -3,7 +3,7 @@
 
 Uma aplicação mobile moderna feita com **React Native**, que permite a empreendedores exibirem seus projetos e investidores descobrirem oportunidades promissoras em diferentes setores.
 
-![Diagrama da Arquitetura](assets/imagem_1.jpeg)
+![Imagem de exemplo](assets/Image_1.jpeg)
 
 ---
 
