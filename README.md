@@ -3,9 +3,7 @@
 
 Uma aplicação mobile moderna feita com **React Native**, que permite a empreendedores exibirem seus projetos e investidores descobrirem oportunidades promissoras em diferentes setores.
 
-<div align="center">
-  <img src="https://via.placeholder.com/600x350?text=Preview+App+UI" alt="App Preview" />
-</div>
+![unnamed](https://github.com/DevsMendes/app_conecta_startups/assets/imagem_1.jpeg)
 
 ---
 
