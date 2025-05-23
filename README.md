@@ -4,9 +4,9 @@
 Uma aplicação mobile moderna feita com **React Native**, que permite a empreendedores exibirem seus projetos e investidores descobrirem oportunidades promissoras em diferentes setores.
 
 <p align="center">
-  <img src="assets/Image_1.jpeg" alt="Tela de Login" width="30%" style="margin-right: 10px;" />
-  <img src="assets/Image_2.jpeg" alt="Feed de Startups" width="30%" style="margin-right: 10px;" />
-  <img src="assets/Image_3.jpeg" alt="Detalhes da Startup" width="30%" />
+  <img src="assets/Image_3.jpeg" alt="Tela de Login" width="30%" style="margin-right: 10px;" />
+  <img src="assets/Image_1.jpeg" alt="Feed de Startups" width="30%" style="margin-right: 10px;" />
+  <img src="assets/Image_2.jpeg" alt="Detalhes da Startup" width="30%" />
 </p>
 
 ---
